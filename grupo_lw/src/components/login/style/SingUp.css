@@ -1,0 +1,52 @@
+.signin-container {
+    position: relative;
+    margin-bottom: 40px;
+  }
+  
+  .signin-box {
+    height: 75vh;
+    width: 100%;
+    max-width: 1044px;
+    margin: auto;
+    justify-content: space-between;
+    margin-bottom: 30px;
+    padding-top: 0;
+  }
+  
+  .signin-form {
+    align-items: center;
+    justify-content: start;
+    width: 42%;
+  }
+  
+  .heading {
+    color: teal.300;
+    font-size: 32px;
+    margin-bottom: 10px;
+  }
+  
+  .text {
+    margin-bottom: 36px;
+    margin-left: 4px;
+    color: gray.400;
+    font-weight: bold;
+    font-size: 14px;
+  }
+  
+  .button {
+    background-color: teal.300;
+    color: white;
+    width: 100%;
+    height: 45px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+  }
+  
+  .button:hover {
+    background-color: teal.200;
+  }
+  
+  .button:active {
+    background-color: teal.400;
+  }
+  
